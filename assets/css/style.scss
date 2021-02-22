@@ -1,0 +1,60 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #757C7D;
+  padding:50px;
+  font: 16px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #FFF8E7; 
+  font-weight:400;
+}
+
+strong {
+  color: #FFFDF1;
+  font-weight:700;
+}
+
+a {
+  color: #ABC9D5;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  color: #2E7A97;
+  font-weight: bold;
+}
+
+a small {
+  font-size:11px;
+  color: #ABC9D5;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color: #2E7A97;
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color: #FFFDF1;
+}
+
+hr {
+  border:0;
+  background: #FFFDF1;
+  height: 2px;
+  margin:0 0 20px;
+}
+
+dt {
+  color: #FFFDF1;
+  font-weight:700;
+}
+
+th {
+  color: #FFFDF1;
+}
+
