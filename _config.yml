@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+markdown: kramdown
+mathjax: true
+usemathjax: true
+title: $$\underset{\Omega}{\stackrel{\mathrm{a.s.}}{\longrightarrow}}\infty$$
+description: Literary technically meets speciousness
