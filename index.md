@@ -1,6 +1,6 @@
 * Anthro
 * Buggy
-* Clean
+* [Clean](./posts/clean.md)
 * Dropout
 * Economic
 * Footnote
