@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 markdown: kramdown
 mathjax: true
 usemathjax: true
-title: $$\infty$
+title: $$\infty$$
 description: Technical literary meets speciousness
