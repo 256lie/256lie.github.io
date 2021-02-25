@@ -1,13 +1,13 @@
 * Anthropic
 * Buggy
-* [Clean](./posts/clean.md)
+* [Clean](posts/clean.md)
 * Dropout
 * Economy
 * Footnote
 * Graphs
 * Header
 * Identity
-* [Jest](./posts/jest.md)
+* [Jest](posts/jest.md)
 * Kepler
 * Lumen
 * Mechanism
@@ -17,7 +17,7 @@
 * Quote
 * Reference
 * Slack
-* [Task](.posts/task.md)
+* [Task](posts/task.md)
 * Unitarity
 * Variance
 * Wirehead
