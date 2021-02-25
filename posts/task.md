@@ -2,21 +2,21 @@ We characterize two common failures modes that arise in inefficient operation in
 
 **Two kinds of failure**
 
-Let us name these two failures $\alpha$ and $\Alpha$ (from "acedia" meaning "without cares") --- typifications of productivity erosion (assuming some reasonable measure of productivity).
+Let us name these two failures $$\alpha$$ and $$\Alpha$$ (from "acedia" meaning "without cares") --- typifications of productivity erosion (assuming some reasonable measure of productivity).
 
-Basically, $\alpha$ concerns inefficiencies of "scaling" while $\Alpha$ concerns suboptimal estimates of "location" in the performance of tasks that advance some goal or objective. To borrow from probability theory, scale and location are parameters that describe the spread and center of a distribution; inappropriate settings of scale and location impede the efficacious completion of tasks, and subsequently, of goals (a goal necessitating completion of multiple tasks). 
+Basically, $$\alpha$$ concerns inefficiencies of "scaling" while $$\Alpha$$ concerns suboptimal estimates of "location" in the performance of tasks that advance some goal or objective. To borrow from probability theory, scale and location are parameters that describe the spread and center of a distribution; inappropriate settings of scale and location impede the efficacious completion of tasks, and subsequently, of goals (a goal necessitating completion of multiple tasks). 
 
-Sinks of $\alpha$ usually manifests when too much energy of focus is invested into a task while $\Alpha$ appears when the current task is misaligned or irrelevant to the intended goal.
+Sinks of $$\alpha$$ usually manifests when too much energy of focus is invested into a task while $$\Alpha$$ appears when the current task is misaligned or irrelevant to the intended goal.
 
-Saposcat will succumb to $\alpha$ and $\Alpha$ if he focuses too narrowly or deviates too far from the assigned task, accumulating penalty after penalty by selecting tasks with a low likelihood of furthering his objectives. On the other hand, Schmidt is more assiduous in investing only the required amount of resources to a task while ensuring the current task is the most appropriate in the current operating context.
+Saposcat will succumb to $$\alpha$$ and $$\Alpha$$ if he focuses too narrowly or deviates too far from the assigned task, accumulating penalty after penalty by selecting tasks with a low likelihood of furthering his objectives. On the other hand, Schmidt is more assiduous in investing only the required amount of resources to a task while ensuring the current task is the most appropriate in the current operating context.
 
-$\alpha$ represents a failure to efficiently utilize the resources allocated to a task, while $\Alpha$ represents a failure to properly mode shift between levels of operation/abstraction, leading to suboptimal scheduling/queuing of tasks. Both $\alpha$ and $\Alpha$  are comorbid and interact with each other through positive feedback; $\alpha$ can lead to overexertion/depletion of resources through burn-out/scope creep, which leads to $\Alpha$ through burn-in (*i.e.* sunk cost or a failure to exit), decision fatigue, and plateaux, reinforcing inefficiencies into habit and blindspots.
+$$\alpha$$ represents a failure to efficiently utilize the resources allocated to a task, while $$\Alpha$$ represents a failure to properly mode shift between levels of operation/abstraction, leading to suboptimal scheduling/queuing of tasks. Both $$\alpha$$ and $$\Alpha$$  are comorbid and interact with each other through positive feedback; $\alpha$ can lead to overexertion/depletion of resources through burn-out/scope creep, which leads to $\Alpha$ through burn-in (*i.e.* sunk cost or a failure to exit), decision fatigue, and plateaux, reinforcing inefficiencies into habit and blindspots.
 
 Schmidt is careful not to let slip the scope of a task lest he waste all his energy in pursuit of marginal gains. Schmidt also adjusts the tempo like a conductor to best suite the mood of the work; he groups similar pieces together and cues them in such a way that they logically flow from one to another while avoiding jarring transitions. Contrastingly, Saposcat is haphazard with the baton: fiddling the stick from one hand to the other, dropping it and having to pick it up again, and using it to scratch his back or pick his nose. 
 
-Below is a table comparing $\alpha$ and $\Alpha$.
+Below is a table comparing $$\alpha$$ and $$\Alpha$$.
 
-|            |                           $\alpha$                           |             $\Alpha$             |
+|            |                          $$\alpha$$                          |            $$\Alpha$$            |
 | :--------: | :----------------------------------------------------------: | :------------------------------: |
 | Parameter  |                            Scale                             |             Location             |
 |  Concerns  |                   Focus; detail; burn-rate                   |      Scheduling; allocation      |
@@ -27,7 +27,7 @@ Below is a table comparing $\alpha$ and $\Alpha$.
 
 **Mitigation strategy**
 
-So, how might we mitigate these two failures, $\alpha$ and $\Alpha$, so that Saposcat becomes more like Schmidt?
+So, how might we mitigate these two failures, $$\alpha$$ and $$\Alpha$$, so that Saposcat becomes more like Schmidt?
 
 Ensure tasks (and goals) are: 
 
@@ -35,7 +35,7 @@ Ensure tasks (and goals) are:
 2. Realistic (achievable)
 3. Bounded (measurable).
 
-For $\alpha$, one can reduce expenditure of resources (focus, energy, time, *etc.*) mainly through [satisficing](https://en.wikipedia.org/wiki/Satisficing) to smooth out step functions into ramps:
+For $$\alpha$$, one can reduce expenditure of resources (focus, energy, time, *etc.*) mainly through [satisficing](https://en.wikipedia.org/wiki/Satisficing) to smooth out step functions into ramps:
 
 * **Adjust zoom/window levels**
 
@@ -60,7 +60,7 @@ For $\alpha$, one can reduce expenditure of resources (focus, energy, time, *etc
 
 
 
-For $\Alpha$, strategies are higher-level actions:
+For $$\Alpha$$, strategies are higher-level actions:
 
 * **Iterate faster** --- defer abstraction to prefer shape over texture
 
@@ -94,9 +94,9 @@ For $\Alpha$, strategies are higher-level actions:
 
 
 
-**Beyond $\alpha$ and $\Alpha$**
+**Beyond $$\alpha$$ and $$\Alpha$$**
 
-To eat our own dogfood, let us zoom out of our constructed dichotomy. Like Saposcat and Schmidt,  $\alpha$ and $\Alpha$ are total fictional concepts, invented by us in order to illustrate and [operationalize](https://en.wikipedia.org/wiki/Operationalization) recognizable patterns. Abstractions can quickly devolve into distractions, and the reader is well advised to ignore any or all of our advice (including this).
+To eat our own dogfood, let us zoom out of our constructed dichotomy. Like Saposcat and Schmidt,  $$\alpha$$ and $$\Alpha$$ are total fictional concepts, invented by us in order to illustrate and [operationalize](https://en.wikipedia.org/wiki/Operationalization) recognizable patterns. Abstractions can quickly devolve into distractions, and the reader is well advised to ignore any or all of our advice (including this).
 
 We intended to describe two general patterns that indicate breakdown in systems; systems that, as they grow in complexity, must more efficiently consume resources and produce control signals to influence their operation in constrained and dynamic environments. 
 

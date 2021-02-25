@@ -17,7 +17,7 @@
 * Quote
 * Reference
 * Slack
-* Task
+* [Task](.posts/task.md)
 * Unitarity
 * Variance
 * Wirehead
