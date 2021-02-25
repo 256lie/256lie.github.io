@@ -1,20 +1,18 @@
-We characterize two common failures modes that arise in inefficient operation in task performance. To personify, imagine two characters: Schmidt and Saposcat. Schmidt represents the epitome of a productive, efficient human resource whereas Saposcat is mediocre and unconscientious. With these two characters, we introduce some conceptualizations of productivity sinks --- operating modes characterized by deleterious slippage and resource leakage and propose some mitigation strategies.
+We characterize two common failures modes that arise in inefficient task operation. To personify these modes, imagine two characters: Schmidt and Saposcat. Schmidt is the epitome of a productive, efficient human resource whereas Saposcat is mediocre and unconscientious. With these two characters, we introduce some conceptualizations of productivity sinks --- operating modes characterized by resource leakage/misallocation --- and propose some mitigation strategies.
 
 **Two kinds of failure**
 
-Let us name these two failures $$\alpha$$ and $$\Alpha$$ (from "acedia" meaning "without cares") --- typifications of productivity erosion (assuming some reasonable measure of productivity).
+Let us name these two failures $$\alpha$$ and $$\Alpha$$ (from "acedia" meaning "without cares") --- typifications erosive to productivity (assuming some reasonable measure of productivity).
 
-Basically, $$\alpha$$ concerns inefficiencies of "scaling" while $$\Alpha$$ concerns suboptimal estimates of "location" in the performance of tasks that advance some goal or objective. To borrow from probability theory, scale and location are parameters that describe the spread and center of a distribution; inappropriate settings of scale and location impede the efficacious completion of tasks, and subsequently, of goals (a goal necessitating completion of multiple tasks). 
-
-Sinks of $$\alpha$$ usually manifests when too much energy of focus is invested into a task while $$\Alpha$$ appears when the current task is misaligned or irrelevant to the intended goal.
+To borrow from probability theory, scale and location are parameters that describe the spread and center of a distribution; inappropriate settings of scale and location impede the efficacious completion of tasks, and subsequently, of goals (a goal necessitating completion of multiple tasks). $$\alpha$$ concerns inefficiencies of "scale" while $$\Alpha$$ concerns suboptimal estimates of "location" in the performance of tasks that advance some goal or objective. $$\alpha$$ usually manifests when too much energy of focus is invested into a task; $$\Alpha$$ appears when the current task is misaligned or irrelevant to the intended goal.
 
 Saposcat will succumb to $$\alpha$$ and $$\Alpha$$ if he focuses too narrowly or deviates too far from the assigned task, accumulating penalty after penalty by selecting tasks with a low likelihood of furthering his objectives. On the other hand, Schmidt is more assiduous in investing only the required amount of resources to a task while ensuring the current task is the most appropriate in the current operating context.
 
-$$\alpha$$ represents a failure to efficiently utilize the resources allocated to a task, while $$\Alpha$$ represents a failure to properly mode shift between levels of operation/abstraction, leading to suboptimal scheduling/queuing of tasks. Both $$\alpha$$ and $$\Alpha$$  are comorbid and interact with each other through positive feedback; $\alpha$ can lead to overexertion/depletion of resources through burn-out/scope creep, which leads to $\Alpha$ through burn-in (*i.e.* sunk cost or a failure to exit), decision fatigue, and plateaux, reinforcing inefficiencies into habit and blindspots.
+$$\alpha$$ represents a failure to efficiently utilize the resources allocated to a task; $$\Alpha$$ represents a failure to properly shift between levels of operation or abstraction, leading to suboptimal task prioritization. Both $$\alpha$$ and $$\Alpha$$ interact and feedback --- $$\alpha$$ can lead to overexertion and the depletion of resources through burn-out or scope creep, which leads to $$\Alpha$$ through burn-in (*i.e.* a "sunk cost"; a failure to exit) and decision fatigue --- reinforcing inefficiencies into habits and blindspots.
 
-Schmidt is careful not to let slip the scope of a task lest he waste all his energy in pursuit of marginal gains. Schmidt also adjusts the tempo like a conductor to best suite the mood of the work; he groups similar pieces together and cues them in such a way that they logically flow from one to another while avoiding jarring transitions. Contrastingly, Saposcat is haphazard with the baton: fiddling the stick from one hand to the other, dropping it and having to pick it up again, and using it to scratch his back or pick his nose. 
+Schmidt is careful to consider the scope and impact of a task lest he waste energy in pursuit of marginal gains. Schmidt also adjusts his tempo like a conductor to fit the mood of his work and groups similar pieces together --- cueing them in a way that logically flows from one to another, avoiding jarring transitions. Conversely, Saposcat is haphazard with the baton: fiddling it from one hand to the other, constantly dropping and picking it up, using it to scratch his back and pick his nose. 
 
-Below is a table comparing $$\alpha$$ and $$\Alpha$$.
+A table comparing $$\alpha$$ and $$\Alpha$$.
 
 |            |                          $$\alpha$$                          |            $$\Alpha$$            |
 | :--------: | :----------------------------------------------------------: | :------------------------------: |
@@ -28,12 +26,6 @@ Below is a table comparing $$\alpha$$ and $$\Alpha$$.
 **Mitigation strategy**
 
 So, how might we mitigate these two failures, $$\alpha$$ and $$\Alpha$$, so that Saposcat becomes more like Schmidt?
-
-Ensure tasks (and goals) are: 
-
-1. Concrete (actionable)
-2. Realistic (achievable)
-3. Bounded (measurable).
 
 For $$\alpha$$, one can reduce expenditure of resources (focus, energy, time, *etc.*) mainly through [satisficing](https://en.wikipedia.org/wiki/Satisficing) to smooth out step functions into ramps:
 
@@ -107,3 +99,12 @@ We speculate that complex systems inherently benefit from acquiring/selecting mo
 **Aside on procrastination loops**
 
 Procrastination is often perceived as a detriment to productivity or as a flaw in character morale or social mores. However, we view procrastination as a complex feedback mechanism --- stemming from sensations of pain and exacerbated by normative pressures of modernity and technology. Fundamentally, procrastination is a psychological aversion or avoidance to assignments in favor of more immediately gratifying activities. The lack of disciplined self-control is only a proximal cause or procrastination. Several factors, external to individual control, also contribute. The modern individual is inundated with stimulus and access to distractions which were unfathomable to the prehistorical individual. Widespread availability to pathways to short circuit reward systems have led to several consequences such as increased prevalence of attention deficit, dysthymia, and anxiety. Rapid technological advances and integration have led to an exponential increase in information, decision, and opportunity. Everyday, we bear additional cognitive overhead of choosing among many potential options. While we may rely on some mental heuristics and leverage external tools, our processing capabilities are fundamentally limited; too much novelty saturates our senses; too many decisions lead to indecision. We become fatigued and default to distraction and entertainment --- the product of a hyper-capitalist society of consumption and growth --- which diminishes the productivity of the individual. 
+
+
+
+Finally, ensure all tasks (and goals) are: 
+
+1. **Concrete and actionable**
+2. **Realistic and achievable**
+3. **Bounded and measurable.**
+
