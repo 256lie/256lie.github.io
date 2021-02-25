@@ -1,4 +1,4 @@
-* Anthro
+* Anthropic
 * Buggy
 * [Clean](./posts/clean.md)
 * Dropout
@@ -7,7 +7,7 @@
 * Graphing
 * Header
 * Identity
-* I6E J2T
+* [Jest](./posts/jest.md)
 * Kepler
 * Lumen
 * Mechanic
@@ -17,7 +17,7 @@
 * Reference
 * Slack
 * Task
-* Unit
+* Unitarity
 * Variance
 * Wirehead
 * Xanax
