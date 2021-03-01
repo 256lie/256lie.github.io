@@ -54,44 +54,35 @@ For $$\mathrm{A}$$, there are higher-level mitigations:
     * Be more aware of mode shifts
   * [Do not optimize prematurely](https://en.wikipedia.org/wiki/Program_optimization)
   * Quick baseline to assess difficulty and chokepoints/bottlenecks
-
-* **Delineate shifts and practice shifting**
+* **Delineate modes and practice shifting**
   * Acknowledge separate modes with names/characterization *e.g.* "editing", "sketching", "refactoring", "exploring", "theorizing"
-  * Batch/coalesce similar tasks together *e.g.* shallow administration work such as checking emails once a day
-  * Think of tradeoffs *e.g.* greedy versus optimal searches, function versus detail, prototype versus state-of-the-art
-
-* **Set breakpoints** --- use dead space to debug and review and recalibrate
-
-  * Have predefined completion criteria and exit conditions
-  * Check in at fixed intervals progress and estimates with instrumentation and logging
-
-  * Pause and reflect on the counterfactual/hypothetical (*e.g.* consider trade-offs between feasibility/impact vs. effort/risk)
-  * Restarts or reboots or rewrites may be necessary if too much cruft has already accumulated
-
-* **Keep few rules and simple processes** --- it is harder to subtract than to add; keep things simple enough for a mentally disadvantaged Saposcat
-
-  * Fewer rules are easier to follow, remember, and ingrain into habits/mindsets
-  * Beware the "meta-processes"; avoid excessive/intricate planning/tracking
-  * Systems tend towards disorder over time
-    * all processes compound and propagate their errors but complexity can hide longer symptoms of decay and staleness
-    * as much as is possible, limit dependencies and coupling
+  * Batch or coalesce similar tasks together *e.g.* administrative or routine work
+  * Think of tradeoffs *e.g.* greedy versus optimal searches, prototype versus state-of-the-art, feasibility vs impact
+* **Set breakpoints** --- use dead space to review and recalibrate
+  * Have predefined exit criteria *i.e.* i.e. conditions for terminating tasks
+  * Regular reporting on progress; update estimate with instrumentation
+  * Pause and reflect on the counterfactual and hypothetical of not doing the task
+  * Restart or reboot if too much cruft has already accumulated
+* **Keep processes simple and few** --- it is harder to subtract than to add (keep things simple enough for Saposcat)
+  * Fewer rules are easier to follow and remember; ingrain the most useful into habit
+  * Beware "meta-processes" --- avoid excessive or intricate planning and tracking
+  * Systems tend towards breakdown over time
+    * Errors compound and propagate but complexity is better at hiding the symptoms of decay
+    * Limit dependencies and coupling as much as is possible
 
 
 
 **Beyond $$\alpha$$ and $$\mathrm{A}$$**
 
-To eat our own dogfood, let us zoom out of our constructed dichotomy. Like Saposcat and Schmidt,  $$\alpha$$ and $$\mathrm{A}$$ are total fictional concepts, invented by us in order to illustrate and [operationalize](https://en.wikipedia.org/wiki/Operationalization) recognizable patterns. Abstractions can quickly devolve into distractions, and the reader is well advised to ignore any or all of our advice (including this).
+Dogfooding ourselves, let us zoom outside of our constructed dichotomy. Like Saposcat and Schmidt, $$\alpha$$ and $$\mathrm{A}$$ are totally fictional concepts, invented in order to illustrate and [operationalize](https://en.wikipedia.org/wiki/Operationalization) recognizable general, abstract patterns. Abstractions can quickly devolve into distractions. The reader is well advised to ignore any or all of our advice (including this).
 
-We intended to describe two general patterns that indicate breakdown in systems; systems that, as they grow in complexity, must more efficiently consume resources and produce control signals to influence their operation in constrained and dynamic environments.
-
-We speculate that complex systems inherently benefit from acquiring/selecting more efficient and adaptive behaviors. An efficient system can be represented compactly, which facilitates its continued existence and propagation. For example, the genomic sequence is comprises four nucleotide bases and the few characters in the latin alphabet is flexible enough to create complex systems of communication and culture. Adaptive systems that are more robust to a wide dynamic range of environmental conditions are likely to have elements of redundancy or techniques for error correction in lossy communication channels. These attributes serve to preserve the system for the continuation of its evolutionary lifetime. Additionally, adaptivity of activation thresholds can reduce friction, allowing methods to escape local optima (saturating plateaux and basins) to find a better operating point on the Pareto front. While we make no normative claims about productivity or efficiency being inherently "positive", we generally observe that communication and synchronization within many varieties of complex systems are correlated with adaptive, regulating behaviors.
+We have described two general patterns indicative of breakdown in systems; systems that, as they grow in complexity, must more efficiently consume resources and produce control signals in order to influence their operation in constrained, dynamic environments. We speculate that complex systems inherently benefit from acquiring and selecting more efficient and adaptive behaviors. An efficient system can be represented more compactly, which facilitates its continued existence and organization. For example, the genomic sequence comprises only four nucleotide bases and the characters of the Latin alphabet are flexible enough to create complex systems of communication and culture. Adaptive systems are more robust to a wide range of dynamic environmental conditions. These systems are likely to have elements of redundancy or techniques for error correction in lossy channels to communicate and control signal. These attributes and properties preserve the continuation of its evolutionary lifetime. Additionally, adaptive activation thresholds can reduce friction, which allow ways to escape local optima (*i.e.* saturating plateaux and basins) to find a better operating points on the Pareto front. While we make no normative claims about productivity being inherently "positive", we only observe general efficiencies in communication and synchronization within and between many varieties of complex systems, each having regulating, adaptive behaviors.
 
 
 
 **Aside on procrastination loops**
 
-Procrastination is often perceived as a detriment to productivity or as a flaw in character morale or social mores. However, we view procrastination as a complex feedback mechanism --- stemming from sensations of pain and exacerbated by normative pressures of modernity and technology. Fundamentally, procrastination is a psychological aversion or avoidance to assignments in favor of more immediately gratifying activities. The lack of disciplined self-control is only a proximal cause or procrastination. Several factors, external to individual control, also contribute. The modern individual is inundated with stimulus and access to distractions which were unfathomable to the prehistorical individual. Widespread availability to pathways to short circuit reward systems have led to several consequences such as increased prevalence of attention deficit, dysthymia, and anxiety. Rapid technological advances and integration have led to an exponential increase in information, decision, and opportunity. Everyday, we bear additional cognitive overhead of choosing among many potential options. While we may rely on some mental heuristics and leverage external tools, our processing capabilities are fundamentally limited; too much novelty saturates our senses; too many decisions lead to indecision. We become fatigued and default to distraction and entertainment --- the product of a hyper-capitalist society of consumption and growth --- which diminishes the productivity of the individual.
-
+Procrastination is often perceived as a detriment to productivity, or as a character flaw in social mores. However, we view procrastination as a complex feedback mechanism --- stemming from sensations of pain, exacerbated by normative pressures of modernity and technology. Fundamentally, procrastination is the psychological aversion and avoidance to assignments in favor of activities that result in more immediate gratification. The lack of discipline and  self-control is only a proximal cause of procrastination. Several factors, external to an individual's control, also contribute to the actual etiology. The postmodern individual is now inundated with stimulus and given easy access to distractions unfathomable to the individual of prehistory. Widespread availability and reinforcement of pathways that short circuit reward systems have led to several consequences: increased prevalences of attention deficit, dysthymia, and anxiety. Rapid technological advancement and integration have led to exponential increases in information, decisions, and opportunity. Everyday, we bear the additional cognitive overhead of having to choose among many potential options. While we may rely on some mental heuristics and leverage some decision-making tools, our processing capabilities are biologically limited. Too much novelty saturates our senses. Too many decisions lead to indecision. We become fatigued and default to more entertaining distraction that is the path of least effort --- the product of a hyper-capitalist society --- which diminishes productivity of the individual.
 
 
 Finally, all tasks (and goals) should be:
