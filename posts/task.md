@@ -1,8 +1,8 @@
-We characterize two common failures modes that arise in inefficient task operation. To personify these modes, imagine two characters: Schmidt and Saposcat. Schmidt is the epitome of a productive, efficient human resource whereas Saposcat is mediocre and unconscientious. With these two characters, we introduce some conceptualizations of productivity sinks --- operating modes characterized by resource leakage/misallocation --- and propose some mitigation strategies.
+We characterize two common failures modes that arise in inefficient task performance. To personify these modes, we image two characters: Schmidt and Saposcat. Schmidt is the epitome of a productive and efficient human resource, whereas Saposcat is mediocre and unconscientious. With these two characters, first introduce two conceptualizations of productivity sinks --- operating modes characterized by inefficient resource allocation --- and then propose strategies for mitigation.
 
 **Two kinds of failure**
 
-Let us name these two failures $$\alpha$$ and $$\mathrm{A}$$ (from "acedia" meaning "without cares") --- typifications erosive to productivity (assuming some reasonable measure of productivity).
+We name these two failures $$\alpha$$ and $$\mathrm{A}$$ (from the Latin "acedia" meaning "without a care") --- to typify general patterns of erosiion in productivity (assume any reasonable definition or measure of productivity).
 
 To borrow from probability theory, scale and location are parameters that describe the spread and center of a distribution; inappropriate settings of scale and location impede the efficacious completion of tasks, and subsequently, of goals (a goal necessitating completion of multiple tasks). $$\alpha$$ concerns inefficiencies of "scale" while $$\mathrm{A}$$ concerns suboptimal estimates of "location" in the performance of tasks that advance some goal or objective. $$\alpha$$ usually manifests when too much energy of focus is invested into a task; $$\mathrm{A}$$ appears when the current task is misaligned or irrelevant to the intended goal.
 
@@ -102,9 +102,9 @@ Procrastination is often perceived as a detriment to productivity or as a flaw i
 
 
 
-Finally, ensure all tasks (and goals) are:
+Finally, all tasks (and goals) should be:
 
-1. **Concrete and actionable**
-2. **Realistic and achievable**
-3. **Bounded and measurable.**
+1. **concrete and actionable**
+2. **realistic and achievable**
+3. **bounded and measurable**
 
