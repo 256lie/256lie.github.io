@@ -78,8 +78,8 @@ Dogfooding ourselves, let us zoom outside of our constructed dichotomy. Like Sap
 
 We have described two general patterns indicative of breakdown in systems; systems that, as they grow in complexity, must more efficiently consume resources and produce control signals in order to influence their operation in constrained, dynamic environments. We speculate that complex systems inherently benefit from acquiring and selecting more efficient and adaptive behaviors. An efficient system can be represented more compactly, which facilitates its continued existence and organization. For example, the genomic sequence comprises only four nucleotide bases and the characters of the Latin alphabet are flexible enough to create complex systems of communication and culture.
 
-![AT base pair](../assets/images/base-at.png)
-![GC base pair](../assets/images/base-gc.png)
+![AT base pair](../assets/images/base-at.svg)
+![GC base pair](../assets/images/base-gc.svg)
 
 Adaptive systems are more robust to a wide range of dynamic environmental conditions. These systems are likely to have elements of redundancy or techniques for error correction in lossy channels to communicate and control signal. These attributes and properties preserve the continuation of its evolutionary lifetime. Additionally, adaptive activation thresholds can reduce friction, which allow ways to escape local optima (*i.e.* saturating plateaux and basins) to find a better operating points on the Pareto front. While we make no normative claims about productivity being inherently "positive", we only observe general efficiencies in communication and synchronization within and between many varieties of complex systems, each having regulating, adaptive behaviors.
 
