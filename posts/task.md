@@ -2,19 +2,19 @@ We characterize two common failures modes that arise in inefficient task operati
 
 **Two kinds of failure**
 
-Let us name these two failures $$\mathrm{A}$$ and $$\mathrm{A}$$ (from "acedia" meaning "without cares") --- typifications erosive to productivity (assuming some reasonable measure of productivity).
+Let us name these two failures $$\alpha$$ and $$\mathrm{A}$$ (from "acedia" meaning "without cares") --- typifications erosive to productivity (assuming some reasonable measure of productivity).
 
-To borrow from probability theory, scale and location are parameters that describe the spread and center of a distribution; inappropriate settings of scale and location impede the efficacious completion of tasks, and subsequently, of goals (a goal necessitating completion of multiple tasks). $$\mathrm{A}$$ concerns inefficiencies of "scale" while $$\mathrm{A}$$ concerns suboptimal estimates of "location" in the performance of tasks that advance some goal or objective. $$\mathrm{A}$$ usually manifests when too much energy of focus is invested into a task; $$\mathrm{A}$$ appears when the current task is misaligned or irrelevant to the intended goal.
+To borrow from probability theory, scale and location are parameters that describe the spread and center of a distribution; inappropriate settings of scale and location impede the efficacious completion of tasks, and subsequently, of goals (a goal necessitating completion of multiple tasks). $$\alpha$$ concerns inefficiencies of "scale" while $$\mathrm{A}$$ concerns suboptimal estimates of "location" in the performance of tasks that advance some goal or objective. $$\alpha$$ usually manifests when too much energy of focus is invested into a task; $$\mathrm{A}$$ appears when the current task is misaligned or irrelevant to the intended goal.
 
-Saposcat will succumb to $$\mathrm{A}$$ and $$\mathrm{A}$$ if he focuses too narrowly or deviates too far from the assigned task, accumulating penalty after penalty by selecting tasks with a low likelihood of furthering his objectives. On the other hand, Schmidt is more assiduous in investing only the required amount of resources to a task while ensuring the current task is the most appropriate in the current operating context.
+Saposcat will succumb to $$\alpha$$ and $$\mathrm{A}$$ if he focuses too narrowly or deviates too far from the assigned task, accumulating penalty after penalty by selecting tasks with a low likelihood of furthering his objectives. On the other hand, Schmidt is more assiduous in investing only the required amount of resources to a task while ensuring the current task is the most appropriate in the current operating context.
 
-$$\mathrm{A}$$ represents a failure to efficiently utilize the resources allocated to a task; $$\mathrm{A}$$ represents a failure to properly shift between levels of operation or abstraction, leading to suboptimal task prioritization. Both $$\mathrm{A}$$ and $$\mathrm{A}$$ interact and feedback --- $$\mathrm{A}$$ can lead to overexertion and the depletion of resources through burn-out or scope creep, which leads to $$\mathrm{A}$$ through burn-in (*i.e.* a "sunk cost"; a failure to exit) and decision fatigue --- reinforcing inefficiencies into habits and blindspots.
+$$\alpha$$ represents a failure to efficiently utilize the resources allocated to a task; $$\mathrm{A}$$ represents a failure to properly shift between levels of operation or abstraction, leading to suboptimal task prioritization. Both $$\alpha$$ and $$\mathrm{A}$$ interact and feedback --- $$\alpha$$ can lead to overexertion and the depletion of resources through burn-out or scope creep, which leads to $$\mathrm{A}$$ through burn-in (*i.e.* a "sunk cost"; a failure to exit) and decision fatigue --- reinforcing inefficiencies into habits and blindspots.
 
 Schmidt is careful to consider the scope and impact of a task lest he waste energy in pursuit of marginal gains. Schmidt also adjusts his tempo like a conductor to fit the mood of his work and groups similar pieces together --- cueing them in a way that logically flows from one to another, avoiding jarring transitions. Conversely, Saposcat is haphazard with the baton: fiddling it from one hand to the other, constantly dropping and picking it up, using it to scratch his back and pick his nose.
 
-A table comparing $$\mathrm{A}$$ and $$\mathrm{A}$$.
+A table comparing $$\alpha$$ and $$\mathrm{A}$$.
 
-|            |                          $$\mathrm{A}$$                          |            $$\mathrm{A}$$            |
+|            |                          $$\alpha$$                          |            $$\mathrm{A}$$            |
 | :--------: | :----------------------------------------------------------: | :------------------------------: |
 | Parameter  |                            Scale                             |             Location             |
 |  Concerns  |                   Focus; detail; burn-rate                   |      Scheduling; allocation      |
@@ -25,9 +25,9 @@ A table comparing $$\mathrm{A}$$ and $$\mathrm{A}$$.
 
 **Mitigation strategy**
 
-So, how might we mitigate these two failures, $$\mathrm{A}$$ and $$\mathrm{A}$$, so that Saposcat becomes more like Schmidt?
+So, how might we mitigate these two failures, $$\alpha$$ and $$\mathrm{A}$$, so that Saposcat becomes more like Schmidt?
 
-For $$\mathrm{A}$$, one can reduce expenditure of resources (focus, energy, time, *etc.*) mainly through [satisficing](https://en.wikipedia.org/wiki/Satisficing) to smooth out step functions into ramps:
+For $$\alpha$$, one can reduce expenditure of resources (focus, energy, time, *etc.*) mainly through [satisficing](https://en.wikipedia.org/wiki/Satisficing) to smooth out step functions into ramps:
 
 * **Adjust zoom/window levels**
 
@@ -86,13 +86,13 @@ For $$\mathrm{A}$$, strategies are higher-level actions:
 
 
 
-**Beyond $$\mathrm{A}$$ and $$\mathrm{A}$$**
+**Beyond $$\alpha$$ and $$\mathrm{A}$$**
 
-To eat our own dogfood, let us zoom out of our constructed dichotomy. Like Saposcat and Schmidt,  $$\mathrm{A}$$ and $$\mathrm{A}$$ are total fictional concepts, invented by us in order to illustrate and [operationalize](https://en.wikipedia.org/wiki/Operationalization) recognizable patterns. Abstractions can quickly devolve into distractions, and the reader is well advised to ignore any or all of our advice (including this).
+To eat our own dogfood, let us zoom out of our constructed dichotomy. Like Saposcat and Schmidt,  $$\alpha$$ and $$\mathrm{A}$$ are total fictional concepts, invented by us in order to illustrate and [operationalize](https://en.wikipedia.org/wiki/Operationalization) recognizable patterns. Abstractions can quickly devolve into distractions, and the reader is well advised to ignore any or all of our advice (including this).
 
 We intended to describe two general patterns that indicate breakdown in systems; systems that, as they grow in complexity, must more efficiently consume resources and produce control signals to influence their operation in constrained and dynamic environments.
 
-We speculate that complex systems inherently benefit from acquiring/selecting more efficient and adaptive behaviors. An efficient system can be represented compactly, which facilitates its continued existence and propagation. For example, the genomic sequence is comprises four nucleotide bases and the few characters in the latin mathrm{A}bet is flexible enough to create complex systems of communication and culture. Adaptive systems that are more robust to a wide dynamic range of environmental conditions are likely to have elements of redundancy or techniques for error correction in lossy communication channels. These attributes serve to preserve the system for the continuation of its evolutionary lifetime. Additionally, adaptivity of activation thresholds can reduce friction, allowing methods to escape local optima (saturating plateaux and basins) to find a better operating point on the Pareto front. While we make no normative claims about productivity or efficiency being inherently "positive", we generally observe that communication and synchronization within many varieties of complex systems are correlated with adaptive, regulating behaviors.
+We speculate that complex systems inherently benefit from acquiring/selecting more efficient and adaptive behaviors. An efficient system can be represented compactly, which facilitates its continued existence and propagation. For example, the genomic sequence is comprises four nucleotide bases and the few characters in the latin alphabet is flexible enough to create complex systems of communication and culture. Adaptive systems that are more robust to a wide dynamic range of environmental conditions are likely to have elements of redundancy or techniques for error correction in lossy communication channels. These attributes serve to preserve the system for the continuation of its evolutionary lifetime. Additionally, adaptivity of activation thresholds can reduce friction, allowing methods to escape local optima (saturating plateaux and basins) to find a better operating point on the Pareto front. While we make no normative claims about productivity or efficiency being inherently "positive", we generally observe that communication and synchronization within many varieties of complex systems are correlated with adaptive, regulating behaviors.
 
 
 
