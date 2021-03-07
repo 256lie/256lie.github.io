@@ -38,7 +38,7 @@ For $$\alpha$$, reduce expenditure of resources (focus, energy, time, *etc.*) th
   * Minimize overhead from context-switching
   * Prioritize resources for tasks which have the highest chance of advancing the goal
   * *Indexing* --- if not immediately relevant, index and reference for later retrieval
-* **Avoid intricate tools** --- tools are extensions that must be maintained regularly and exercised
+* **Avoid intricate tools** --- tools are extensions that must be maintained regularly and exercised (i.e. internalized/interiorized into "second nature")
   * The beginner should not learn to drive in a racecar --- they must first learn the fundamentals of maneuvering and steering
   * Additional complexity and functionality must be justified against the opportunity cost to acquire, learn, and maintain
   * Simple tools are easy to use, maintain, and fix; a dull knife is worthless to the chef during the rush --- *mise en place*
