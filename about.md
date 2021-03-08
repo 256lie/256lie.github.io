@@ -1,6 +1,6 @@
-[Systems](https://en.wikipedia.org/wiki/Systems_theory) surround us.
+A blog about [systems](https://en.wikipedia.org/wiki/Systems_theory).
 
-So we are interested in better understanding of systems and their manifestations and interactions.
+Building an understanding of their manifestations and interactions.
 
 ---
 
