@@ -1,24 +1,24 @@
-* Anthropic
-* Buggy
+* Anthro
+* Bug
 * [Clean](posts/clean.md)
 * Dropout
 * Economy
-* Footnote
-* Graphs
+* Footnotes
+* Graphical
 * Header
 * Identity
 * [Jest](posts/jest.md)
 * Kepler
-* Lumen
-* Mechanism
+* Lucid
+* [Medical](posts/medical.md)
 * Noop
 * Organism
-* Physiology
+* Pointer
 * Quote
-* Reference
+* References
 * Slack
 * [Task](posts/task.md)
-* Unitarity
+* Units
 * Variance
 * Wirehead
 * Xanax
@@ -26,4 +26,3 @@
 * Zombie
 
 [关于](./about.md)
-
