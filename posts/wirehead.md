@@ -5,7 +5,7 @@
 
 ### Pachinko
 
-Pachinko is one of the largest gambling industries with revenue surpassing that of Las Vegas, Macau, and Singapore combined$^1$. Pachinko parlours popped up in post-war Japan, where pachinko vendors devised ways to legally bypass gambling laws. During the following period of strong economic growth and industrialization, electronic pachinko machines began to replace mechanical ones, allowing the incorporation of more gratifying techniques of novel stimulus such as jackpots and digitalized visual interaction. Additional conveniences --- such as attached restaurants and dedicated locations in the suburbs --- enticed players to spend even more time in their parlours and contributed to their widespread popularity in society.
+Pachinko is one of the largest gambling industries with revenue surpassing that of Las Vegas, Macau, and Singapore combined$$^1$$. Pachinko parlours popped up in post-war Japan, where pachinko vendors devised ways to legally bypass gambling laws. During the following period of strong economic growth and industrialization, electronic pachinko machines began to replace mechanical ones, allowing the incorporation of more gratifying techniques of novel stimulus such as jackpots and digitalized visual interaction. Additional conveniences --- such as attached restaurants and dedicated locations in the suburbs --- enticed players to spend even more time in their parlours and contributed to their widespread popularity in society.
 
 ### Mismatch to modernity
 
@@ -26,7 +26,7 @@ A longer but more sedentary life has replaced high mortality with high morbidity
 
 ### Reward pathways
 
-We design artificial agents in our likeness --- to seek reward and avoid cost --- but without the sentimental suffering (yet). Principle of the under-determination and overexploitation lead our agents to optimize whatever is most easy without regard of our moral prescriptions or intentions. Cheating has no negative connotation if there is no explicit penalty. Indeed, "cheating" is just another solution that may best optimize the specified function. Cheating is a human problem. Normative notions and semantics are anthropic inventions. There is no agency. No capacity to feel happy or sad. Perhaps confused or bored (overly complex tasks or badly specified loss functions lead to underachieving or bewildering performance). Boring is not bad; boring is boring. Machines are happy to be boring.
+We design artificial agents in our likeness --- to seek reward and avoid cost --- but without the sentimental suffering (yet). Principle of the under-determination and overexploitation lead our agents to optimize whatever is most easy without regard of our moral prescriptions or intentions. Cheating has no negative connotation if there is no explicit penalty. Indeed, "cheating" is just another solution that may best optimize the specified function.$$^2$$ Cheating is a human problem. Normative notions and semantics are anthropic inventions. There is no agency. No capacity to feel happy or sad. Perhaps confused or bored (overly complex tasks or badly specified loss functions lead to underachieving or bewildering performance). Boring is not bad; boring is boring. Machines are happy to be boring.
 
 
 ### Stoic short circuit
@@ -39,5 +39,5 @@ One common approach taken to confront this unreasonable silence is to fill the v
 ### References
 
 1. [fortune](http://fortune.com/2017/01/30/pachinko-japan-gambling-casinos-economy/)
+3. [value RL](https://arxiv.org/abs/1605.03143)
 2. [qualia](https://qualiacomputing.com/2016/08/20/wireheading_done_right/)
-3. [mario]()
