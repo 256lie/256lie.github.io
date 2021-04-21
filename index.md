@@ -15,12 +15,12 @@
 * Organism
 * Pointer
 * Quote
-* References
+* Risk
 * Slack
 * [Task](posts/task.md)
 * Units
 * Variance
-* Wirehead
+* [Wirehead](posts/wirehead.md)
 * Xanax
 * Yield
 * Zombie
