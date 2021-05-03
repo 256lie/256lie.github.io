@@ -1,28 +1,28 @@
-* Anthro
-* Bug
-* [Clean](posts/clean.md)
+* Auto
+* Books
+* [Cleaning](posts/clean.md)
 * Dropout
-* Economy
+* Energy
 * Footnotes
-* Graphical
-* Header
-* Identity
+* Graphs
+* Headers
+* Idolatry
 * [Jest](posts/jest.md)
-* Kepler
-* Lucid
+* K-pop
+* Links
 * [Medical](posts/medical.md)
 * Noop
-* Organism
+* Oral
 * Pointer
-* Quote
-* Risk
+* Quotes
+* [Random](posts/random.md)
 * Slack
 * [Task](posts/task.md)
 * Units
 * Variance
 * [Wirehead](posts/wirehead.md)
-* Xanax
+* X-risk
 * Yield
-* Zombie
+* Zembla
 
-[关于](./about.md)
+[About](./about.md)
