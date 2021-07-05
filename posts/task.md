@@ -4,6 +4,8 @@
 
 Effective prioritization and execution of tasks requisite for the agent with volition. Objectives, which may or not be instrumental, are composed of tasks and subtasks to be achieved by the agent's actions and influence Inefficiencies arise in every operation and environment subject to reality. Here, we identify two sinks of productivity and propose some strategies for their mitigation.
 
+
+
 ### Two types of erosion
 
 Let us name the two general patterns of erosion in productivity (assume some reasonable definition of productivity):
@@ -33,38 +35,40 @@ Overexertion often leads to mistakes in decision-making and execution. Fatigue, 
 |  Causes  |                   burn-out; paralysis; indecision                   |      burn-in; saturation; plateaux; bad estimates      |
 |  Manifestations  | stalls; losing perspective | sunk cost; local optima; overruns |
 
+
+
 ### Erosion checklist
 
 We now detail six mitigation strategies to avoid erosion.
 
-1. [Continuous cleanup](#cleanup) -- *mise en place* 
-2. [Hard stuff first](#hard-stuff-first) -- more energy; better chance of success
-3. [Simple tools](#simple-tools) -- avoid premature intricacy
-4. [Skimming](#skimming) -- skim before committing
-5. [Breakpoints and cues](#breakpoints-and-cues) -- reminders to collect feedback and affirm commitments
-6. ["Finishing mindset"](#finishing) -- iterate to ingrain habits and find bottlenecks
+1. <a name="cleanup">Continuous cleanup</a>-- *mise en place* 
+2. <a name="hard">Hard stuff first</a> -- more energy; better chance of success
+3. <a name="simple">Simple tools</a> -- avoid premature intricacy
+4. <a name="skim">Skimming</a>-- skim before committing
+5. <a name="break">Breakpoints and cues</a> -- reminder to collect feedback and affirm 
+6. <a name="finish">Finishing mindset</a> -- iterate and ingrain to find bottlenecks
 
 
 
-**Continuous cleanup**
+[**Continuous cleanup**](#cleanup)
 
 Systems tend towards disorder and regular cleanup is needed to prevent entropy from accumulating. Memory is periodically freed up. Dead branches needs to be trimmed. Knives have to be sharpened before use. Dirty operating environments clutter the space and can affect (even subconsciously) the mood and mindset of the agent. Unmaintained systems may become too broken to fix post hoc. Easier to perform regular updates and repairs while the mess is manageable and below the activation threshold. With some prior organization, unexpected loads become much less stressful organization.
 
 
 
-**Hard stuff first**
+[**Hard stuff first**](#hard)
 
 By default, actions and decision-making are sequential -- a linear sequence of events resulting from a previous states in time. Precedence determines dependencies. The chef prepares ingredients with respect to order of operations: the oven preheated, the meat defrosted, the vegetables chopped. Just as reward in the present are more valuable than reward in the future, actions at the beginning of the sequence should be considered more carefully than actions at the end of the sequence. There is more uncertainty in future actions and usually more resources to commit at the start, when arduous tasks can be more easily tackled. Early moves allow more flexibility and set the direction for future paths to converge. Defer easier tasks and prioritize tasks which are most likely to advance the objective. Avoid unnecessary overhead from context-switching and leaks from orphaned processes. 
 
 
 
-**Use simple tools **
+[**Use simple tools **](#simple)
 
 Tools (and by extension their related workflows) should be appropriate for their users. Additional functionality and features add complexity and cost (to acquire and maintain). Expensive tools (and complicated workflows) are difficult for the novice to learn. Simple tools (and straightforward workflows) are appreciated by the expert to internalize. Why learn to drive in a race car? What does the mechanic drive to work every day? Practice with a constrained toolset. Options add (often necessary) overhead. Do not blame the tools at disposal (as others have done more with much less).
 
 
 
-**Skimming**
+[**Skimming**](#skim)
 
  $$\sigma$$-erosion is usually caused from unexpected increases in expenditure of resources (e.g. focus, time, energy), disproportionate to the gain from completing the task. Quickly skimming to better estimate the expected utility and requirements of a task can help reduce $$\sigma$$  by:
 
@@ -77,48 +81,15 @@ For example, if trying to determine if a book is currently relevant to completio
 
 
 
-**Set breakpoints and cues**
+[**Set breakpoints and cues**](#breakpoint)
 
-use dead space to review and recalibrate
-
-* Have predefined exit criteria *i.e.* i.e. conditions for terminating tasks
-* Regular reporting on progress; update estimate with instrumentation
-* Pause and reflect on the counterfactual and hypothetical of not doing the task
-* Restart or reboot if too much cruft has already accumulated
+Set aside some time to review. Externalize and offload by leaving reminders -- cues and placeholders to come back to at a later point. A reference or index to do something. Utilize free space to recalibrate. Have predefined exit criteria to avoid losing too much. Reflect on the counterfactual and lessons learned. Make this process easy to follow and easy to remember. Avoid excessive setup, instrumentation, and tracking. Just enough to debug and move on. Avoid "meta-processes". Abstractions quickly devolve into distractions.
 
 
 
-**Build a habit of finishing**
+[**Build a habit of finishing**](#finish)
 
-Abstractions can quickly devolve into distractions.
-
-**Keep processes simple and few** --- it is harder to subtract than to add (keep things simple enough for Saposcat)
-
-* Fewer rules are easier to follow and remember; ingrain the most useful into habit
-
-* Beware "meta-processes" --- avoid excessive or intricate planning and tracking
-
-* Systems tend towards breakdown over time
-
-  * Errors compound and propagate but complexity is better at hiding the symptoms of decay
-  * Limit dependencies and coupling as much as is possible
-
-  * Acknowledge separate modes with names/characterization *e.g.* "editing", "sketching", "refactoring", "exploring", "theorizing"
-  * Batch or coalesce similar tasks together *e.g.* administrative or routine work
-  * Think of tradeoffs *e.g.* greedy versus optimal searches, prototype versus state-of-the-art, feasibility vs impact
-
-
-Mitigations for $$\mathrm{A}$$ target higher-level interventions:
-
-* **Iterate faster** --- defer abstraction *e.g.* prefer shape over texture, form over detail, function over form
-  * Increase [number of cycles](https://en.wikipedia.org/wiki/OODA_loop);
-    * Become familiar with the entire end-to-end process
-    * Incorporating external feedback
-    * Be more aware of mode shifts
-  * [Do not optimize prematurely](https://en.wikipedia.org/wiki/Program_optimization)
-  * Quick baseline to assess difficulty and chokepoints/bottlenecks
-  
-  
+Defer abstraction by preferring: form over detail; function over form; shape over texture. Iterate faster over the entire lifecycle. Avoid dwelling on any particular stage for too long. Quickly baseline to assess difficulty and spot chokepoints. Become familiar with the end-to-end process. Limit dependencies and coupling. Systems breakdown over time but complexity can hide signs of decay as errors compound and propagate throughout different subparts. Premature optimization can mask these problems.
 
 
 
