@@ -1,51 +1,114 @@
-We characterize two common failures modes that arise in inefficient task performance. To personify these modes, we image two characters: Schmidt and Saposcat. Schmidt is the epitome of a productive and efficient human resource, whereas Saposcat is mediocre and unconscientious. With these two characters, first introduce two conceptualizations of productivity sinks --- operating modes characterized by inefficient resource allocation --- and then propose strategies for mitigation.
+## Task management
 
-**Two kinds of failure**
 
-We name these two failures $$\alpha$$ and $$\mathrm{A}$$ (from the Latin "acedia" meaning "without a care") --- to typify general patterns of erosiion in productivity (assume any reasonable definition or measure of productivity).
 
-To borrow from probability theory, scale and location parameters describe the spread and center of a distribution; inappropriate settings of scale and location impede the efficacy in task completion and, subsequently, of goals (a goal necessitates completion of multiple tasks). $$\alpha$$ concerns inefficiency in "scale" while $$\mathrm{A}$$ concerns suboptimal estimates of "location" in performance of tasks to advance some goal or objective. $$\alpha$$ usually manifests when too much energy or focus is invested into a task; $$\mathrm{A}$$ manifests when the current task is misaligned or irrelevant to the intended goal.
+Effective prioritization and execution of tasks requisite for the agent with volition. Objectives, which may or not be instrumental, are composed of tasks and subtasks to be achieved by the agent's actions and influence Inefficiencies arise in every operation and environment subject to reality. Here, we identify two sinks of productivity and propose some strategies for their mitigation.
 
-Saposcat succumbs to $$\alpha$$ and $$\mathrm{A}$$ when he focuses too narrowly or deviates too far from the assigned task, accumulating friction by choosing tasks with low likelihood of furthering his objectives. On the other hand, Schmidt is more assiduous in investing only the required amount of resources while ensuring the current task is the one most appropriate in the current operating context.
+### Two types of erosion
 
-$$\alpha$$ represents a failure in efficiently utilizing resources allocated to a task; $$\mathrm{A}$$ represents a failure to properly shift between levels of operation or abstraction, leading to suboptimal task prioritization. Both $$\alpha$$ and $$\mathrm{A}$$ feedback and interact --- $$\alpha$$ can lead to overexertion and depletion of resources through burn-out or scope creep, which leads to $$\mathrm{A}$$ through burn-in (*i.e.* a "sunk cost"; a failure to exit) and decision fatigue --- reinforcing inefficiencies into habits or blindspots.
+Let us name the two general patterns of erosion in productivity (assume some reasonable definition of productivity):
 
-Schmidt carefully considers the scope and impact of a task to avoid marginal gains. Schmidt also adjusts his tempo of performing --- like a conductor, matching the mood and pace appropriate for each section and cueing members before their part --- in a way that logically flows from one to another, avoiding any jarring transitions. Conversely, Saposcat haphazard fiddles with his baton, fumbling and dropping it on the ground, and picking his nose.
+1. $$\sigma$$  -- **erosion of focus**
+   * waste in allocating energy (usually too much) to accomplish the task to sufficiency
+   * poor utilization in dedicating optimal amount and type of resources to complete task
+   * wrong level of effort leads to friction or fatigue
+2. $$\mu$$ -- **erosion of alignment**
+   * slowness to perceive mode shifts and adapt in dynamic environments 
+   * poor estimation and prioritization of tasks to best further intended goals
+   * pursing tasks that do not have the highest expected return
 
-A table comparing $$\alpha$$ and $$\mathrm{A}$$.
 
-|            |                          $$\alpha$$                          |            $$\mathrm{A}$$            |
+
+**Both $$\sigma$$ and $$\mu$$ contribute to suboptimal performance**
+
+The appropriate level of detail and awareness is needed to triage incoming tasks and invest only the minimum required resources to maximize their chance of successful completion. Less relevant tasks should have lower priority in the queue. The scope of each task should be estimated and resources assigned accordingly. Deviations and uncertainties complicate tasks and add creeping complexity, which negatively affect efficiency and stresses the agent. Environmental factors also affect effectiveness. Changes in contexts necessitate changes in prioritization; cycling between levels of abstraction to best accommodate unexpected operating conditions. Tasks that have too low a likelihood of advantage are discarded in favor of tasks with more impact and chance of moving towards overall objectives. 
+
+**Both $$\sigma$$ and $$\mu$$ interact and exacerbate the degradation**
+
+Overexertion often leads to mistakes in decision-making and execution. Fatigue, sunk costs, and complacency can reinforce habituate routines and hide blindspots. Vicious cycles of depressed productivity and function result from strained resources and misdirected momentum. Burn-in and burn-out impede smooth transitions at a sustainable pace. The conductor must adjust tempo and match the mood to avoid jarring transitions and coordinate every section to the logical shifts of each piece.
+
+|            |                          $$\sigma$$                          |            $$\mu$$            |
 | :--------: | :----------------------------------------------------------: | :------------------------------: |
-| Parameter  |                            Scale                             |             Location             |
-|  Concerns  |                   Focus; detail; burn-rate                   |      Scheduling; allocation      |
-|  Examples  | Burn-out; [stalls](https://en.wikipedia.org/wiki/Analysis_paralysis); scope creep | Burn-in; sunk costs; saturation  |
-| Indication | Lose of perspective; [fatigue](https://en.wikipedia.org/wiki/Decision_fatigue) | Complacency to plateaux; erosion |
+| Signs |                            fatigue; strain; stress; exhaustion                            |             sclerosis; complacency; low growth rate             |
+|  Causes  |                   burn-out; paralysis; indecision                   |      burn-in; saturation; plateaux; bad estimates      |
+|  Manifestations  | stalls; losing perspective | sunk cost; local optima; overruns |
+
+### Erosion checklist
+
+We now detail six mitigation strategies to avoid erosion.
+
+1. [Continuous cleanup](#cleanup) -- *mise en place* 
+2. [Hard stuff first](#hard-stuff-first) -- more energy; better chance of success
+3. [Simple tools](#simple-tools) -- avoid premature intricacy
+4. [Skimming](#skimming) -- skim before committing
+5. [Breakpoints and cues](#breakpoints-and-cues) -- reminders to collect feedback and affirm commitments
+6. ["Finishing mindset"](#finishing) -- iterate to ingrain habits and find bottlenecks
 
 
 
-**Mitigation strategy**
+**Continuous cleanup**
 
-How might we mitigate $$\alpha$$ and $$\mathrm{A}$$ --- so that Saposcat may act more like Schmidt?
-
-For $$\alpha$$, reduce expenditure of resources (focus, energy, time, *etc.*) through [satisficing](https://en.wikipedia.org/wiki/Satisficing) to smooth step functions into ramps:
-
-* **Adjust zoom/window levels**
-  * Affirm scope and cost is appropriate
-  * Delegate to subject matter expert and defer low-priority tasks
-  * Linearize to ignore higher-order complexity
-  * *Skimming* --- triage relevance before processing *e.g.* read the title; then the table of contents; jump to specific chapters; stop at any time if material deemed not sufficiently pertinent
-* **Stop multi-tasking**
-  * Minimize overhead from context-switching
-  * Prioritize resources for tasks which have the highest chance of advancing the goal
-  * *Indexing* --- if not immediately relevant, index and reference for later retrieval
-* **Avoid intricate tools** --- tools are extensions that must be maintained regularly and exercised (i.e. internalized/interiorized into "second nature")
-  * The beginner should not learn to drive in a racecar --- they must first learn the fundamentals of maneuvering and steering
-  * Additional complexity and functionality must be justified against the opportunity cost to acquire, learn, and maintain
-  * Simple tools are easy to use, maintain, and fix; a dull knife is worthless to the chef during the rush --- *mise en place*
-  * Leverage creative constraints and do not spoil yourself --- remember that others have done more with less; do not blame your tools
+Systems tend towards disorder and regular cleanup is needed to prevent entropy from accumulating. Memory is periodically freed up. Dead branches needs to be trimmed. Knives have to be sharpened before use. Dirty operating environments clutter the space and can affect (even subconsciously) the mood and mindset of the agent. Unmaintained systems may become too broken to fix post hoc. Easier to perform regular updates and repairs while the mess is manageable and below the activation threshold. With some prior organization, unexpected loads become much less stressful organization.
 
 
-For $$\mathrm{A}$$, there are higher-level mitigations:
+
+**Hard stuff first**
+
+By default, actions and decision-making are sequential -- a linear sequence of events resulting from a previous states in time. Precedence determines dependencies. The chef prepares ingredients with respect to order of operations: the oven preheated, the meat defrosted, the vegetables chopped. Just as reward in the present are more valuable than reward in the future, actions at the beginning of the sequence should be considered more carefully than actions at the end of the sequence. There is more uncertainty in future actions and usually more resources to commit at the start, when arduous tasks can be more easily tackled. Early moves allow more flexibility and set the direction for future paths to converge. Defer easier tasks and prioritize tasks which are most likely to advance the objective. Avoid unnecessary overhead from context-switching and leaks from orphaned processes. 
+
+
+
+**Use simple tools **
+
+Tools (and by extension their related workflows) should be appropriate for their users. Additional functionality and features add complexity and cost (to acquire and maintain). Expensive tools (and complicated workflows) are difficult for the novice to learn. Simple tools (and straightforward workflows) are appreciated by the expert to internalize. Why learn to drive in a race car? What does the mechanic drive to work every day? Practice with a constrained toolset. Options add (often necessary) overhead. Do not blame the tools at disposal (as others have done more with much less).
+
+
+
+**Skimming**
+
+ $$\sigma$$-erosion is usually caused from unexpected increases in expenditure of resources (e.g. focus, time, energy), disproportionate to the gain from completing the task. Quickly skimming to better estimate the expected utility and requirements of a task can help reduce $$\sigma$$  by:
+
+* linearizing -- ignore higher-order complexity
+* satisficing -- smooth step functions into ramps
+
+* adjust zoom -- triage relevance before processing 
+
+For example, if trying to determine if a book is currently relevant to completion of a task: read the title; then the table of contents; jump to specific chapters; stop at any time if the material is not sufficiently pertinent.
+
+
+
+**Set breakpoints and cues**
+
+use dead space to review and recalibrate
+
+* Have predefined exit criteria *i.e.* i.e. conditions for terminating tasks
+* Regular reporting on progress; update estimate with instrumentation
+* Pause and reflect on the counterfactual and hypothetical of not doing the task
+* Restart or reboot if too much cruft has already accumulated
+
+
+
+**Build a habit of finishing**
+
+Abstractions can quickly devolve into distractions.
+
+**Keep processes simple and few** --- it is harder to subtract than to add (keep things simple enough for Saposcat)
+
+* Fewer rules are easier to follow and remember; ingrain the most useful into habit
+
+* Beware "meta-processes" --- avoid excessive or intricate planning and tracking
+
+* Systems tend towards breakdown over time
+
+  * Errors compound and propagate but complexity is better at hiding the symptoms of decay
+  * Limit dependencies and coupling as much as is possible
+
+  * Acknowledge separate modes with names/characterization *e.g.* "editing", "sketching", "refactoring", "exploring", "theorizing"
+  * Batch or coalesce similar tasks together *e.g.* administrative or routine work
+  * Think of tradeoffs *e.g.* greedy versus optimal searches, prototype versus state-of-the-art, feasibility vs impact
+
+
+Mitigations for $$\mathrm{A}$$ target higher-level interventions:
 
 * **Iterate faster** --- defer abstraction *e.g.* prefer shape over texture, form over detail, function over form
   * Increase [number of cycles](https://en.wikipedia.org/wiki/OODA_loop);
@@ -54,45 +117,23 @@ For $$\mathrm{A}$$, there are higher-level mitigations:
     * Be more aware of mode shifts
   * [Do not optimize prematurely](https://en.wikipedia.org/wiki/Program_optimization)
   * Quick baseline to assess difficulty and chokepoints/bottlenecks
-* **Delineate modes and practice shifting**
-  * Acknowledge separate modes with names/characterization *e.g.* "editing", "sketching", "refactoring", "exploring", "theorizing"
-  * Batch or coalesce similar tasks together *e.g.* administrative or routine work
-  * Think of tradeoffs *e.g.* greedy versus optimal searches, prototype versus state-of-the-art, feasibility vs impact
-* **Set breakpoints** --- use dead space to review and recalibrate
-  * Have predefined exit criteria *i.e.* i.e. conditions for terminating tasks
-  * Regular reporting on progress; update estimate with instrumentation
-  * Pause and reflect on the counterfactual and hypothetical of not doing the task
-  * Restart or reboot if too much cruft has already accumulated
-* **Keep processes simple and few** --- it is harder to subtract than to add (keep things simple enough for Saposcat)
-  * Fewer rules are easier to follow and remember; ingrain the most useful into habit
-  * Beware "meta-processes" --- avoid excessive or intricate planning and tracking
-  * Systems tend towards breakdown over time
-    * Errors compound and propagate but complexity is better at hiding the symptoms of decay
-    * Limit dependencies and coupling as much as is possible
+  
+  
 
 
 
-**Beyond $$\alpha$$ and $$\mathrm{A}$$**
+**Beyond $$\sigma$$ and $$\mu$$**
 
-Dogfooding ourselves, let us zoom outside of our constructed dichotomy. Like Saposcat and Schmidt, $$\alpha$$ and $$\mathrm{A}$$ are totally fictional concepts, invented in order to illustrate and [operationalize](https://en.wikipedia.org/wiki/Operationalization) recognizable general, abstract patterns. Abstractions can quickly devolve into distractions. The reader is well advised to ignore any or all of our advice (including this).
+We have described two general modes of erosion in productivity. Complex agents must efficiently procure resources and exert influence for operation in dynamic environments. All intelligent systems with instrumental objectives inherently benefit from acquiring and development more efficient and adaptive behaviors (if only for continued existence of the agent itself). Several properties might serve to increase functioning efficiency: robustness in a wide range of environmental conditions, redundancy and compactness in representation, and adaptive signaling networks for regulation and control. 
 
-We have described two general patterns indicative of breakdown in systems; systems that, as they grow in complexity, must more efficiently consume resources and produce control signals in order to influence their operation in constrained, dynamic environments. We speculate that complex systems inherently benefit from acquiring and selecting more efficient and adaptive behaviors. An efficient system can be represented more compactly, which facilitates its continued existence and organization. For example, the genomic sequence comprises only four nucleotide bases and the characters of the Latin alphabet are flexible enough to create complex systems of communication and culture.
+For example, the genomic sequence comprises only four nucleotide bases and the characters of the Latin alphabet are flexible enough to create complex systems of communication and culture.
 
 ![AT base pair](../assets/images/base-at.svg)
 ![GC base pair](../assets/images/base-gc.svg)
 
-Adaptive systems are more robust to a wide range of dynamic environmental conditions. These systems are likely to have elements of redundancy or techniques for error correction in lossy channels to communicate and control signal. These attributes and properties preserve the continuation of its evolutionary lifetime. Additionally, adaptive activation thresholds can reduce friction, which allow ways to escape local optima (*i.e.* saturating plateaux and basins) to find a better operating points on the Pareto front. While we make no normative claims about productivity being inherently "positive", we only observe general efficiencies in communication and synchronization within and between many varieties of complex systems, each having regulating, adaptive behaviors.
 
 
+**Aside on procrastination**
 
-**Aside on procrastination loops**
-
-Procrastination is often perceived as a detriment to productivity, or as a character flaw in social mores. However, we view procrastination as a complex feedback mechanism --- stemming from sensations of pain, exacerbated by normative pressures of modernity and technology. Fundamentally, procrastination is the psychological aversion and avoidance to assignments in favor of activities that result in more immediate gratification. The lack of discipline and  self-control is only a proximal cause of procrastination. Several factors, external to an individual's control, also contribute to the actual etiology. The postmodern individual is now inundated with stimulus and given easy access to distractions unfathomable to the individual of prehistory. Widespread availability and reinforcement of pathways that short circuit reward systems have led to several consequences: increased prevalences of attention deficit, dysthymia, and anxiety. Rapid technological advancement and integration have led to exponential increases in information, decisions, and opportunity. Everyday, we bear the additional cognitive overhead of having to choose among many potential options. While we may rely on some mental heuristics and leverage some decision-making tools, our processing capabilities are biologically limited. Too much novelty saturates our senses. Too many decisions lead to indecision. We become fatigued and default to more entertaining distraction that is the [path of least effort](https://en.wikipedia.org/wiki/Principle_of_least_effort) --- the product of a hyper-capitalist society --- which diminishes productivity of the individual.
-
-
-Finally, all tasks (and goals) should be:
-
-1. **concrete and actionable**
-2. **realistic and achievable**
-3. **bounded and measurable**
+Procrastination is perceived as a detriment to productivity. We view procrastination as a complex feedback mechanism --- stemming from the sensation of pain from normative pressures. Fundamentally, procrastination is the psychological aversion to stressful assignments in favor of activities that result in more immediate gratification. Absence of individual discipline is only a proximal cause of procrastination. Several factors, external to an individual's control, also contribute to its etiology. The individual is inundated with stimulus and easy access to distractions. Widespread availability and reinforcement of short circuit reward pathways have led decreased attention by increasing availability of alternative options without negatively affecting survival fitness. Rapid technological advancement and integration have led to exponential increases in decisions and options. Unequipped to deal with the additional cognitive burden, we rely on  biologically limited heuristics to choose between countless potential actions. Saturated and indecisive, we become more easily fatigued. More prone to default to distraction which is less effort as well as less productive.
 
